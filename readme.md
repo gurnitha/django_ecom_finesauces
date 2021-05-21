@@ -54,9 +54,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   readme.md
 
 
+### 6. Install listings to the project
 
-
-
+	modified:   core/settings.py
+	modified:   readme.md
 
 
 
