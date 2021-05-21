@@ -32,3 +32,16 @@ https://github.com/gurnitha/django_ecom_finesauces
 	(venv3932) ing| python3 manage.py migrate	
 
 	modified:   readme.md
+
+### 4. Create superuser
+
+	(venv3932) ing| python3 manage.py createsuperuser
+	Username (leave blank to use 'inyomangurnitha'): xxx
+	Email address: ingafterxx@outlook.com
+	Password: xx
+	Password (again):xx 
+	The password is too similar to the username.
+	This password is too short. It must contain at least 8 characters.
+	Bypass password validation and create user anyway? [y/N]: y	
+
+	modified:   readme.md	
