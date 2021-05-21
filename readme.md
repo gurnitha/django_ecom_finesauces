@@ -95,9 +95,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   listings/admin.py
 	modified:   readme.md
 
+### 12. Run migrations (create listings_category and listings_product tables)
 
-
-
+	new file:   listings/migrations/0001_initial.py
+	modified:   readme.md
 
 
 
