@@ -65,7 +65,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   readme.md
 
 
+### 7.1 (Modified) Category model
 
+	modified:   listings/models.py
+	modified:   readme.md
 
 
 

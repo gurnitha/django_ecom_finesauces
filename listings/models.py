@@ -7,15 +7,24 @@ from django.db import models
 # Create your models here.
 
 # Category model
-class Cagegory(models.Model):
+class Category(models.Model):
 
-	name = models.CharField(max_length=100, unique=True)
-	name = models.CharField(max_length=100, unique=True)
+	name = models.CharField(
+		max_length=100,
+		unique=True
+	)
 
-    class Meta:
-        verbose_name = "Cagegory"
-        verbose_name_plural = "Cagegories"
+	slug = models.SlugField(
+		max_length=100,
+		unique=True
+	)
 
-    def __str__(self):
-        return self.name 
+	class Meta:
+		ordering = ('-name',)
+		verbose_name_plural = 'categories'
+
+	def __str__(self):
+		return self.name
     
+
+
