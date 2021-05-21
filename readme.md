@@ -59,9 +59,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   core/settings.py
 	modified:   readme.md
 
+### 7. Create Category model
 
-
-
+	modified:   listings/models.py
+	modified:   readme.md
 
 
 
