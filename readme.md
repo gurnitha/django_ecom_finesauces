@@ -80,7 +80,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   listings/models.py
 	modified:   readme.md
 
+### 9. Adding OneToMany Relationship between Category and Product models
 
+	modified:   listings/models.py
+	modified:   readme.md
 
 
 
