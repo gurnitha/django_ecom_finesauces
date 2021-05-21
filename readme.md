@@ -45,3 +45,45 @@ https://github.com/gurnitha/django_ecom_finesauces
 	Bypass password validation and create user anyway? [y/N]: y	
 
 	modified:   readme.md	
+
+### 5. Create a new app 'listings'
+
+	new file:   listings/admin.py
+	...
+	new file:   listings/views.py
+	modified:   readme.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
