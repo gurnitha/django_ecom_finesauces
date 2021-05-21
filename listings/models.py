@@ -30,12 +30,6 @@ class Category(models.Model):
 # Product model
 class Product(models.Model):
 
-	category = models.ForeignKey(
-		Category,
-		related_name = 'products',
-		on_delete = models.CASCADE
-	)
-	
 	name = models.CharField(
 		max_length=100, 
 		unique=True
