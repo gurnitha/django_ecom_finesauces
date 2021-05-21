@@ -20,3 +20,15 @@ https://github.com/gurnitha/django_ecom_finesauces
 
 	https://github.com/gurnitha/django_ecom_finesauces	
 	modified:   readme.md
+
+### 3. Create tables
+
+	(venv3932) ing| python3 manage.py check
+	System check identified no issues (0 silenced).
+	(venv3932) ing| 
+	(venv3932) ing| python3 manage.py makemigrations
+	No changes detected
+	(venv3932) ing| 
+	(venv3932) ing| python3 manage.py migrate	
+
+	modified:   readme.md
