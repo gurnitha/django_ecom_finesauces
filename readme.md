@@ -85,7 +85,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   listings/models.py
 	modified:   readme.md
 
+### 10. Register Category models to admin
 
+	modified:   listings/admin.py
+	modified:   readme.md
 
 
 
