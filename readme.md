@@ -90,6 +90,11 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   listings/admin.py
 	modified:   readme.md
 
+### 11. Register Product models to admin
+
+	modified:   listings/admin.py
+	modified:   readme.md
+
 
 
 
