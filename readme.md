@@ -70,9 +70,10 @@ https://github.com/gurnitha/django_ecom_finesauces
 	modified:   listings/models.py
 	modified:   readme.md
 
+### 8. Create Product model
 
-
-
+	modified:   listings/models.py
+	modified:   readme.md
 
 
 
